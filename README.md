@@ -3,7 +3,7 @@ Simple shell script that uses nmap utility to check if a remote host is listenin
 For Debian 10 and LibreNMS
 
 ## Usage
-´check_udp_port: -H remote_host -p port -s service_name´
+<code>check_udp_port: -H remote_host -p port -s service_name</code>
 
 -H Name or IP of remote host
 
