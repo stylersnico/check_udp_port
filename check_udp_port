@@ -3,7 +3,8 @@
 # check_udp_port - Checks if a UDP port is open using nmap utility
 #
 # Author:       Aaron Eidt (aeidt4@uwo.ca)
-#
+# Editor: Nicolas Simond
+# 29.07.2019 - Added compatibility for Debian 10 and LibreNMS, grep to egrep and discarding mac address with NMAP
 
 STATE_OK=0
 STATE_WARNING=1
