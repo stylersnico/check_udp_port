@@ -6,7 +6,9 @@ For Debian 10 and LibreNMS
 ´check_udp_port: -H remote_host -p port -s service_name´
 
 -H Name or IP of remote host
+
 -p UDP port number to check
+
 -s Name of the service that should be listening on the port
 
 
